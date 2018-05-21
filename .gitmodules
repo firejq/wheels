@@ -1,0 +1,3 @@
+[submodule "JConnPool"]
+	path = JConnPool
+	url = git://github.com/firejq/JConnPool.git
