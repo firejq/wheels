@@ -1,3 +1,6 @@
 [submodule "JConnPool"]
 	path = JConnPool
 	url = git://github.com/firejq/JConnPool.git
+[submodule "threadLib"]
+	path = threadLib
+	url = git://github.com/firejq/threadLib.git
