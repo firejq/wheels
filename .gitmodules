@@ -4,3 +4,6 @@
 [submodule "threadLib"]
 	path = threadLib
 	url = git://github.com/firejq/threadLib.git
+[submodule "EasyGet"]
+	path = EasyGet
+	url = git://github.com/firejq/EasyGet.git
