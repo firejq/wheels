@@ -7,3 +7,6 @@
 [submodule "EasyGet"]
 	path = EasyGet
 	url = git://github.com/firejq/EasyGet.git
+[submodule "EasyCall"]
+	path = EasyCall
+	url = git://github.com/firejq/EasyCall.git
