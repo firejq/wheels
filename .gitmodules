@@ -10,3 +10,6 @@
 [submodule "EasyCall"]
 	path = EasyCall
 	url = git://github.com/firejq/EasyCall.git
+[submodule "toy-httpserver"]
+	path = toy-httpserver
+	url = https://github.com/firejq/toy-httpserver.git
